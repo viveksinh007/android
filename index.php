@@ -14,6 +14,8 @@
     </head>
     <body>
 
+
+    <h1>hello</h1>
     <?php
         $servername   = "sql12.freemysqlhosting.net";
         $database = "sql12389559";
